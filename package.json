@@ -15,19 +15,19 @@
   "sideEffects": false,
   "exports": {
     ".": {
-      "types": "./es/index.d.ts",
-      "import": "./es/index.js",
-      "default": "./es/index.js"
+      "types": "./es/index.d.mts",
+      "import": "./es/index.mjs",
+      "default": "./es/index.mjs"
     },
     "./react": {
-      "types": "./es/react.d.ts",
-      "import": "./es/react.js",
-      "default": "./es/react.js"
+      "types": "./es/react.d.mts",
+      "import": "./es/react.mjs",
+      "default": "./es/react.mjs"
     },
     "./server": {
-      "types": "./es/server.d.ts",
-      "import": "./es/server.js",
-      "default": "./es/server.js"
+      "types": "./es/server.d.mts",
+      "import": "./es/server.mjs",
+      "default": "./es/server.mjs"
     }
   },
   "files": [
