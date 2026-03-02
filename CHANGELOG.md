@@ -2,6 +2,31 @@
 
 # Changelog
 
+## [Version 5.1.0](https://github.com/lobehub/lobe-tts/compare/v5.0.0...v5.1.0)
+
+<sup>Released on **2026-03-02**</sup>
+
+#### ✨ Features
+
+- **misc**: Bump \[force patch].
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Bump \[force patch] ([9b4aea7](https://github.com/lobehub/lobe-tts/commit/9b4aea7))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 5.0.0](https://github.com/lobehub/lobe-tts/compare/v4.0.2...v5.0.0)
 
 <sup>Released on **2026-03-02**</sup>
