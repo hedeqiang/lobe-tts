@@ -24,6 +24,6 @@
       "@lobehub/tts/server/*": ["./src/server/*"]
     }
   },
-  "exclude": ["./react.d.ts", "./server.d.ts"],
-  "include": ["src", "docs", "tests", ".dumirc.ts", ".fatherrc.ts"]
+  "exclude": [],
+  "include": ["src", "docs", "tests", ".dumirc.ts", "tsdown.config.ts"]
 }

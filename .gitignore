@@ -55,10 +55,3 @@ next-env.d.ts
 .env
 public/*.js
 bun.lockb
-react/**
-server/**
-core/**
-./react.js
-./react.d.ts
-./server.js
-./server.d.ts
