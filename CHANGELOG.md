@@ -2,6 +2,31 @@
 
 # Changelog
 
+### [Version 5.1.2](https://github.com/lobehub/lobe-tts/compare/v5.1.1...v5.1.2)
+
+<sup>Released on **2026-03-02**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Correct package exports to match tsdown output (.mjs, .d.mts).
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Correct package exports to match tsdown output (.mjs, .d.mts) ([efcb00d](https://github.com/lobehub/lobe-tts/commit/efcb00d))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 5.1.1](https://github.com/lobehub/lobe-tts/compare/v5.1.0...v5.1.1)
 
 <sup>Released on **2026-03-02**</sup>
