@@ -2,6 +2,32 @@
 
 # Changelog
 
+### [Version 5.1.1](https://github.com/lobehub/lobe-tts/compare/v5.1.0...v5.1.1)
+
+<sup>Released on **2026-03-02**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Update @lobehub/ui to version 5.0.0 in package.json, update tsdown.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Update @lobehub/ui to version 5.0.0 in package.json ([fe4b0c6](https://github.com/lobehub/lobe-tts/commit/fe4b0c6))
+- **misc**: Update tsdown ([5dee831](https://github.com/lobehub/lobe-tts/commit/5dee831))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 5.1.0](https://github.com/lobehub/lobe-tts/compare/v5.0.0...v5.1.0)
 
 <sup>Released on **2026-03-02**</sup>
