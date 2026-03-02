@@ -2,6 +2,32 @@
 
 # Changelog
 
+## [Version 5.0.0](https://github.com/lobehub/lobe-tts/compare/v4.0.2...v5.0.0)
+
+<sup>Released on **2026-03-02**</sup>
+
+#### ✨ Features
+
+- **misc**: Bump \[force major], Bump \[force major].
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Bump \[force major] ([a106bde](https://github.com/lobehub/lobe-tts/commit/a106bde))
+- **misc**: Bump \[force major] ([feec124](https://github.com/lobehub/lobe-tts/commit/feec124))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 4.0.2](https://github.com/lobehub/lobe-tts/compare/v4.0.1...v4.0.2)
 
 <sup>Released on **2025-12-27**</sup>
